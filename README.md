@@ -1,0 +1,4 @@
+dotemacs
+========
+
+Minimal Emacs config
